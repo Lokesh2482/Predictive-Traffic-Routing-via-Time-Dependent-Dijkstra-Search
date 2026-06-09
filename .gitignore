@@ -1,0 +1,11 @@
+__pycache__/
+.gradio/
+
+*.pyc
+*.pyo
+
+.vscode/
+.idea/
+*.h5
+*.pkl
+traffic_xgb_model.json
